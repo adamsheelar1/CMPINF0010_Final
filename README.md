@@ -12,7 +12,7 @@ Data set 1: a comprehensive list of all the trees in pittsbrugh with a multiude 
 https://data.wprdc.org/dataset/city-trees
 <br>
 Data set 2: a data set of all the fire incidents reported around pittsburgh area in recent years.
-https://data.wprdc.org/datastore/dump/8d76ac6b-5ae8-4428-82a4-043130d17b02
+https://data.wprdc.org/dataset/fire-incidents-in-city-of-pittsburgh
 <br>
 Data set 3: 
 
